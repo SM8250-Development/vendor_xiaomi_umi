@@ -310,15 +310,11 @@ PRODUCT_PACKAGES += \
     com.qti.feature2.demux \
     com.qti.feature2.frameselect \
     com.qti.feature2.fusion \
-    com.qti.feature2.generic \
-    com.qti.feature2.gs \
     com.qti.feature2.hdr \
     com.qti.feature2.memcpy \
-    com.qti.feature2.mfsr \
     com.qti.feature2.qcfa \
     com.qti.feature2.rawhdr \
     com.qti.feature2.rawsupernight \
-    com.qti.feature2.rt \
     com.qti.feature2.serializer \
     com.qti.feature2.softispprocess \
     com.qti.feature2.softispsupernight \
@@ -326,13 +322,11 @@ PRODUCT_PACKAGES += \
     com.qti.feature2.stub \
     com.qti.feature2.swmf \
     camera.qcom \
-    com.qti.chi.override \
     fingerprint.fpc_fod.default \
     fingerprint.goodix_fod.default \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     libHalSuperSensorServer \
     libMIAIHDRhvx_interface \
-    libSNPE \
     libSuperSensor \
     libSuperSensorCPU \
     libalAILDC \
@@ -356,7 +350,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_preview_deflicker \
     libarcsoft_super_night_raw \
     libarcsoft_superportrait \
-    libc++_shared \
     libcamera_dirty \
     libcamera_nn_stub \
     libcamera_scene \
@@ -371,8 +364,6 @@ PRODUCT_PACKAGES += \
     libcamxstatscore \
     libcamxswprocessalgo \
     libcamxtintlessalgo \
-    libchilog \
-    libcom.qti.chinodeutils \
     libcvp2 \
     libcvp2_hfi \
     libcvp_common \
@@ -399,13 +390,11 @@ PRODUCT_PACKAGES += \
     libmialgoengine \
     libmibokeh_845_video \
     libmibokeh_855 \
-    libmpbase \
     libmulticam_image_optical_zoom \
     libmulticam_optical_zoom_control \
     libmulticam_video_optical_zoom \
     libnotifyaudiohal \
     libnpu \
-    libofflinelog \
     libos \
     librelight_only \
     libremosaic_wrapper \
@@ -432,7 +421,6 @@ PRODUCT_PACKAGES += \
     libsynx \
     libthreadutils \
     libtriplecam_optical_zoom_control \
-    libtriplecam_video_optical_zoom \
     libultrasound \
     libvideoBokeh \
     libvideofilter_only \
@@ -442,7 +430,6 @@ PRODUCT_PACKAGES += \
     sensors.mius.proximity \
     sensors.ssc \
     sensors.touch \
-    vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.sensorscalibrate@1.0 \
     capi_v2_cirrus_sp \
     hrtf5c \
